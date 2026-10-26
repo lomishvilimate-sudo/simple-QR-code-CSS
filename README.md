@@ -1,2 +1,2 @@
-# simple-QR-code-CSS
-building simple QR 
+#CSS projects
+
